@@ -179,7 +179,7 @@ h1{
 }
 
 
-/*--------------estilo a la seccion Sneakers-------------*/
+/*--------------estilo a la seccion Sneakers modo celular-------------*/
 
 .sneakers{
 
@@ -576,18 +576,13 @@ h1{
 
     /*--------------estilo a la seccion Sneakers-------------*/
 
-    .sneakers{
+    
 
-        flex-flow: wrap row;
-        justify-content: space-around;
-
-    }
-
-    .sneakers img{
+    /* .sneakers img{
 
         width:360px;
         height:460px;
-    }
+    } */
 
 
 
